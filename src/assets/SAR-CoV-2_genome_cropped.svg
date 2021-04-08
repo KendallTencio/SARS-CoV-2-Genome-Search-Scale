@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" id="svg821" version="1.1"
+   viewBox="0 0 620.61657 49.938877" height="49.938877mm" width="620.61658mm">
+   <defs id="defs815">
+      <clipPath id="clip0">
+         <rect x="0" y="0" width="2646" height="720" id="rect1399" />
+      </clipPath>
+      <linearGradient x1="5.24934e-005" y1="-3.05552e-015" x2="5.24934e-005" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill1">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1402" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1404" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1406" />
+      </linearGradient>
+      <linearGradient x1="33.4958" y1="-1.52776e-015" x2="33.4958" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill2">
+         <stop offset="0" stop-color="#FFECC6" id="stop1409" />
+         <stop offset="0.5" stop-color="#FFD38E" id="stop1411" />
+         <stop offset="1" stop-color="#FFCB7C" id="stop1413" />
+      </linearGradient>
+      <linearGradient x1="37.995201" y1="-3.05552e-015" x2="37.995201" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill3">
+         <stop offset="0" stop-color="#FFECC6" id="stop1416" />
+         <stop offset="0.5" stop-color="#FFD38E" id="stop1418" />
+         <stop offset="1" stop-color="#FFCB7C" id="stop1420" />
+      </linearGradient>
+      <linearGradient x1="498.43701" y1="-1.52776e-015" x2="498.43701" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill4">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1423" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1425" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1427" />
+      </linearGradient>
+      <linearGradient x1="303.46201" y1="0" x2="303.46201" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill5">
+         <stop offset="0" stop-color="#FFECC6" id="stop1430" />
+         <stop offset="0.5" stop-color="#FFD38E" id="stop1432" />
+         <stop offset="1" stop-color="#FFCB7C" id="stop1434" />
+      </linearGradient>
+      <linearGradient x1="145.98199" y1="-3.05552e-015" x2="145.98199" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill6">
+         <stop offset="0" stop-color="#FFD7D2" id="stop1437" />
+         <stop offset="0.5" stop-color="#FF8E88" id="stop1439" />
+         <stop offset="1" stop-color="#FF8E88" id="stop1441" />
+      </linearGradient>
+      <linearGradient x1="30.996099" y1="-1.52776e-015" x2="30.996099" y2="24.996799" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill7">
+         <stop offset="0" stop-color="#DEEAFF" id="stop1444" />
+         <stop offset="0.5" stop-color="#97B7FF" id="stop1446" />
+         <stop offset="1" stop-color="#97B7FF" id="stop1448" />
+      </linearGradient>
+      <linearGradient x1="9.4987898" y1="-1.52776e-015" x2="9.4987898" y2="24.996799" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill8">
+         <stop offset="0" stop-color="#F3E4FF" id="stop1451" />
+         <stop offset="0.5" stop-color="#C297F0" id="stop1453" />
+         <stop offset="1" stop-color="#C297F0" id="stop1455" />
+      </linearGradient>
+      <linearGradient x1="26.496599" y1="-1.52776e-015" x2="26.496599" y2="24.996799" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill9">
+         <stop offset="0" stop-color="#F3E4FF" id="stop1458" />
+         <stop offset="0.5" stop-color="#C297F0" id="stop1460" />
+         <stop offset="1" stop-color="#C297F0" id="stop1462" />
+      </linearGradient>
+      <linearGradient x1="8.4989405" y1="-1.52776e-015" x2="8.4989405" y2="24.996799" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill10">
+         <stop offset="0" stop-color="#DEEAFF" id="stop1465" />
+         <stop offset="0.5" stop-color="#97B7FF" id="stop1467" />
+         <stop offset="1" stop-color="#97B7FF" id="stop1469" />
+      </linearGradient>
+      <linearGradient x1="19.497499" y1="-3.05552e-015" x2="19.497499" y2="24.996799" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill11">
+         <stop offset="0" stop-color="#DEEAFF" id="stop1472" />
+         <stop offset="0.5" stop-color="#97B7FF" id="stop1474" />
+         <stop offset="1" stop-color="#97B7FF" id="stop1476" />
+      </linearGradient>
+      <linearGradient x1="13.4983" y1="-1.52776e-015" x2="13.4983" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill12">
+         <stop offset="0" stop-color="#DEEAFF" id="stop1479" />
+         <stop offset="0.5" stop-color="#97B7FF" id="stop1481" />
+         <stop offset="1" stop-color="#97B7FF" id="stop1483" />
+      </linearGradient>
+      <linearGradient x1="46.494202" y1="-1.52776e-015" x2="46.494202" y2="23.997101" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill13">
+         <stop offset="0" stop-color="#F3E4FF" id="stop1486" />
+         <stop offset="0.5" stop-color="#C297F0" id="stop1488" />
+         <stop offset="1" stop-color="#C297F0" id="stop1490" />
+      </linearGradient>
+      <linearGradient x1="3.99948" y1="-1.52776e-015" x2="3.99948" y2="24.996799" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill14">
+         <stop offset="0" stop-color="#DEEAFF" id="stop1493" />
+         <stop offset="0.5" stop-color="#97B7FF" id="stop1495" />
+         <stop offset="1" stop-color="#97B7FF" id="stop1497" />
+      </linearGradient>
+      <linearGradient x1="19.497499" y1="0" x2="19.497499" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill15">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1500" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1502" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1504" />
+      </linearGradient>
+      <linearGradient x1="72.490898" y1="0" x2="72.490898" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill16">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1507" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1509" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1511" />
+      </linearGradient>
+      <linearGradient x1="217.47301" y1="-3.05552e-015" x2="217.47301" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill17">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1514" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1516" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1518" />
+      </linearGradient>
+      <linearGradient x1="58.492599" y1="-1.52776e-015" x2="58.492599" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill18">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1521" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1523" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1525" />
+      </linearGradient>
+      <linearGradient x1="34.995602" y1="-1.52776e-015" x2="34.995602" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill19">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1528" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1530" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1532" />
+      </linearGradient>
+      <linearGradient x1="33.4958" y1="-1.52776e-015" x2="33.4958" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill20">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1535" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1537" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1539" />
+      </linearGradient>
+      <linearGradient x1="9.4987898" y1="-3.05552e-015" x2="9.4987898" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill21">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1542" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1544" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1546" />
+      </linearGradient>
+      <linearGradient x1="18.997601" y1="-3.05552e-015" x2="18.997601" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill22">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1549" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1551" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1553" />
+      </linearGradient>
+      <linearGradient x1="14.9981" y1="-1.52776e-015" x2="14.9981" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill23">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1556" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1558" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1560" />
+      </linearGradient>
+      <linearGradient x1="15.998" y1="-1.52776e-015" x2="15.998" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill24">
+         <stop offset="0" stop-color="#FFF3C5" id="stop1563" />
+         <stop offset="0.5" stop-color="#FFDD79" id="stop1565" />
+         <stop offset="1" stop-color="#FFDD79" id="stop1567" />
+      </linearGradient>
+      <linearGradient x1="105.487" y1="-3.05552e-015" x2="105.487" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill25">
+         <stop offset="0" stop-color="#FFECC6" id="stop1570" />
+         <stop offset="0.5" stop-color="#FFD38E" id="stop1572" />
+         <stop offset="1" stop-color="#FFCB7C" id="stop1574" />
+      </linearGradient>
+      <linearGradient x1="66.991501" y1="-1.52776e-015" x2="66.991501" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill26">
+         <stop offset="0" stop-color="#FFECC6" id="stop1577" />
+         <stop offset="0.5" stop-color="#FFD38E" id="stop1579" />
+         <stop offset="1" stop-color="#FFCB7C" id="stop1581" />
+      </linearGradient>
+      <linearGradient x1="60.992298" y1="-1.52776e-015" x2="60.992298" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill27">
+         <stop offset="0" stop-color="#FFECC6" id="stop1584" />
+         <stop offset="0.5" stop-color="#FFD38E" id="stop1586" />
+         <stop offset="1" stop-color="#FFCB7C" id="stop1588" />
+      </linearGradient>
+      <linearGradient x1="27.4965" y1="-3.05552e-015" x2="27.4965" y2="23.997" gradientUnits="userSpaceOnUse"
+         spreadMethod="reflect" id="fill28">
+         <stop offset="0" stop-color="#DEEAFF" id="stop1591" />
+         <stop offset="0.5" stop-color="#97B7FF" id="stop1593" />
+         <stop offset="1" stop-color="#97B7FF" id="stop1595" />
+      </linearGradient>
+   </defs>
+   <metadata id="metadata818">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g transform="translate(807.66403,219.57807)" id="layer1">
+      <g transform="matrix(0.26458333,0,0,0.26458333,-847.40509,-289.54208)" id="g2113" style="overflow:hidden">
+         <g clip-path="url(#clip0)" id="g1860">
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 2263,1.04987e-4" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,191,269.966)"
+               id="path1602" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,267,269.966)"
+               id="path1604" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,250.841,298)" id="text1608">1,000<tspan
+                  x="-101.329" y="-24.003" id="tspan1606">5’ UTR</tspan>
+            </text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,342,269.966)"
+               id="path1610" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,326.035,298)"
+               id="text1612">2,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,418,269.966)"
+               id="path1614" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,401.768,298)"
+               id="text1616">3,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,493,269.966)"
+               id="path1618" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,477.212,298)"
+               id="text1620">4,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,569,269.966)"
+               id="path1622" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,552.923,298)"
+               id="text1624">5,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,644,269.966)"
+               id="path1626" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,628.39,298)" id="text1628">6,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,720,269.966)"
+               id="path1630" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,703.856,298)"
+               id="text1632">7,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,795,269.966)"
+               id="path1634" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,779.323,298)"
+               id="text1636">8,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,871,269.966)"
+               id="path1638" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,854.789,298)"
+               id="text1640">9,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,947,269.966)"
+               id="path1642" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,927.239,298)"
+               id="text1644">10,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1022,269.966)"
+               id="path1646" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1002.69,298)"
+               id="text1648">11,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1098,269.966)"
+               id="path1650" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1078.67,298)"
+               id="text1652">12,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1174,269.966)"
+               id="path1654" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1154.12,298)"
+               id="text1656">13,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1250,269.966)"
+               id="path1658" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1229.85,298)"
+               id="text1660">14,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1325,269.966)"
+               id="path1662" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1305.05,298)"
+               id="text1664">15,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1401,269.966)"
+               id="path1666" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1381.03,298)"
+               id="text1668">16,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1476,269.966)"
+               id="path1670" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1455.99,298)"
+               id="text1672">17,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1551,269.966)"
+               id="path1674" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1531.67,298)"
+               id="text1676">18,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1627,269.966)"
+               id="path1678" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1607.01,298)"
+               id="text1680">19,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1703,269.966)"
+               id="path1682" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1682.87,298)"
+               id="text1684">20,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1778,269.966)"
+               id="path1686" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1758.02,298)"
+               id="text1688">21,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1854,269.966)"
+               id="path1690" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1833.89,298)"
+               id="text1692">22,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1929,269.966)"
+               id="path1694" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1909.04,298)"
+               id="text1696">23,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2005,269.966)"
+               id="path1698" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,1984.91,298)"
+               id="text1700">24,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2080,269.966)"
+               id="path1702" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,2060.78,298)"
+               id="text1704">25,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2156,269.966)"
+               id="path1706" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,2135.93,298)"
+               id="text1708">26,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2232,268.966)"
+               id="path1710" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,2211.89,298)"
+               id="text1712">27,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2307,269.966)"
+               id="path1714" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,2287.31,298)"
+               id="text1716">28,000</text>
+            <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.66666996;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,10.75" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2382,269.966)"
+               id="path1718" />
+            <text style="font-weight:400;font-size:14px;font-family:Calibri, Calibri_MSFontService, sans-serif"
+               font-weight="400" font-size="14" transform="matrix(1,0,0,0.999874,2362.74,298)" id="text1732">29,000
+               <tspan x="96.4114" y="-24.003" id="tspan1720">3’ UTR</tspan>
+               <tspan style="font-size:19px;fill:#003779" font-size="19" x="-251.36501" y="62.007801" id="tspan1722">
+                  ORF3ab</tspan>
+               <tspan style="font-size:19px;fill:#003779" font-size="19" x="-129.94501" y="63.0079" id="tspan1724">ORF6
+               </tspan>
+               <tspan style="font-size:19px;fill:#003779" font-size="19" x="-111.744" y="81.010201" id="tspan1726">
+                  ORF7ab</tspan>
+               <tspan style="font-size:19px;fill:#003779" font-size="19" x="-66.675499" y="63.0079" id="tspan1728">ORF8
+               </tspan>
+               <tspan style="font-size:19px;fill:#003779" font-size="19" x="37.913101" y="63.0079" id="tspan1730">ORF10
+               </tspan>
+            </text>
+            <path style="fill:url(#fill1);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,7.88275 C 0,3.52923 1.54404e-5,0 3.44871e-5,0 h 3.60127e-5 c 1.90467e-5,0 3.44872e-5,3.52923 3.44872e-5,7.88275 v 8.23145 c 0,4.3535 -1.54405e-5,7.8828 -3.44872e-5,7.8828 H 3.44871e-5 C 1.54404e-5,23.997 0,20.4677 0,16.1142 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1206.5,390.451)" id="path1734" />
+            <path style="fill:url(#fill2);fill-rule:evenodd;stroke:#ffb750;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53411 C 0,2.92542 2.92542,0 6.5341,0 h 53.9234 c 3.6087,0 6.5341,2.92542 6.5341,6.53411 V 17.4628 c 0,3.6087 -2.9254,6.5342 -6.5341,6.5342 H 6.5341 C 2.92542,23.997 0,21.0715 0,17.4628 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1750.5,390.451)" id="path1736" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#003779"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,2326.69,435)" id="text1748">ORF9bc
+               <tspan style="fill:#9a5f00" x="-1250.51" y="0" id="tspan1738">NSP7</tspan>
+               <tspan style="fill:#9a5f00" x="-1187.46" y="0" id="tspan1740">NSP9</tspan>
+               <tspan style="fill:#9a5f00" x="-1122.49" y="0" id="tspan1742">NSP11</tspan>
+               <tspan style="fill:#9a5f00" x="-1220.01" y="18.0023" id="tspan1744">NSP8</tspan>
+               <tspan style="fill:#9a5f00" x="-1160.5" y="18.0023" id="tspan1746">NSP10</tspan>
+            </text>
+            <path style="fill:url(#fill3);fill-rule:evenodd;stroke:#ffb750;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53416 C 0,2.92544 2.92544,0 6.53415,0 H 69.4563 c 3.6087,0 6.5341,2.92544 6.5341,6.53416 V 17.4628 c 0,3.6087 -2.9254,6.5342 -6.5341,6.5342 H 6.53415 C 2.92544,23.997 0,21.0715 0,17.4628 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1674.5,390.451)" id="path1750" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a4900"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1687.45,408)" id="text1754">NSP15<tspan
+                  style="fill:#9a5f00" x="-1472.8101" y="27.003401" id="tspan1752">NSP1</tspan>
+            </text>
+            <path style="fill:url(#fill4);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53481 C 0,2.92573 2.92565,0 6.53463,0 H 990.34 c 3.609,0 6.534,2.92573 6.534,6.53481 V 17.4621 c 0,3.6091 -2.925,6.5349 -6.534,6.5349 H 6.53463 C 2.92565,23.997 0,21.0712 0,17.4621 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,214.5,316.46)" id="path1756" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a5f00"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,687.819,334)"
+               id="text1758">ORF1a</text>
+            <path style="fill:url(#fill5);fill-rule:evenodd;stroke:#ffb750;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53388 C 0,2.92532 2.92531,0 6.53385,0 H 600.39 c 3.608,0 6.533,2.92532 6.533,6.53388 V 17.4631 c 0,3.6085 -2.925,6.5339 -6.533,6.5339 H 6.53385 C 2.92531,23.997 0,21.0716 0,17.4631 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1211.5,316.46)" id="path1760" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a4900"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1489.29,334)"
+               id="text1762">ORF1b</text>
+            <path style="fill:url(#fill6);fill-rule:evenodd;stroke:#ff6661;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53406 C 0,2.9254 2.92539,0 6.53405,0 H 285.429 c 3.609,0 6.534,2.9254 6.534,6.53406 V 17.4629 c 0,3.6087 -2.925,6.5341 -6.534,6.5341 H 6.53405 C 2.92539,23.997 0,21.0716 0,17.4629 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1818.5,316.46)" id="path1764" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#961119"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1959.53,334)" id="text1766">S</text>
+            <path style="fill:url(#fill7);fill-rule:evenodd;stroke:#6b95f9;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.80641 C 0,3.04733 3.04733,0 6.8064,0 h 48.3794 c 3.7591,0 6.8064,3.04733 6.8064,6.80641 V 18.1904 c 0,3.7591 -3.0473,6.8064 -6.8064,6.8064 H 6.8064 C 3.04733,24.9968 0,21.9495 0,18.1904 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2110.5,315.46)" id="path1768" />
+            <path style="fill:url(#fill8);fill-rule:evenodd;stroke:#a56fe5;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.724 C 0,3.01044 3.01044,0 6.724,0 h 5.5496 c 3.7135,0 6.724,3.01044 6.724,6.724 v 11.5489 c 0,3.7135 -3.0105,6.7239 -6.724,6.7239 H 6.724 C 3.01044,24.9968 0,21.9864 0,18.2729 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2172.5,315.46)" id="path1770" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#2e1371"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,2176.66,333)" id="text1772">E</text>
+            <path style="fill:url(#fill9);fill-rule:evenodd;stroke:#a56fe5;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.80637 C 0,3.04732 3.04731,0 6.80637,0 H 46.1869 c 3.7591,0 6.8064,3.04732 6.8064,6.80637 V 18.1905 c 0,3.759 -3.0473,6.8063 -6.8064,6.8063 H 6.80637 C 3.04731,24.9968 0,21.9495 0,18.1905 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2191.5,315.46)" id="path1774" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#2e1371"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,2209.35,333)" id="text1776">M</text>
+            <path style="fill:url(#fill10);fill-rule:evenodd;stroke:#6b95f9;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.69445 C 0,2.99721 2.99721,0 6.69445,0 h 3.60895 c 3.6973,0 6.6945,2.99721 6.6945,6.69445 V 18.3024 c 0,3.6972 -2.9972,6.6944 -6.6945,6.6944 H 6.69445 C 2.99721,24.9968 0,21.9996 0,18.3024 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2244.5,315.46)" id="path1778" />
+            <path style="fill:url(#fill11);fill-rule:evenodd;stroke:#6b95f9;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.8064 C 0,3.04733 3.04733,0 6.8064,0 h 25.3823 c 3.759,0 6.8064,3.04733 6.8064,6.8064 v 11.384 c 0,3.7591 -3.0474,6.8064 -6.8064,6.8064 H 6.8064 C 3.04733,24.9968 0,21.9495 0,18.1904 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2261.5,315.46)" id="path1780" />
+            <path style="fill:url(#fill12);fill-rule:evenodd;stroke:#6b95f9;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53414 C 0,2.92544 2.92543,0 6.53414,0 H 20.4624 c 3.6087,0 6.5341,2.92544 6.5341,6.53414 V 17.4628 c 0,3.6087 -2.9254,6.5342 -6.5341,6.5342 H 6.53414 C 2.92543,23.997 0,21.0715 0,17.4628 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2301.5,315.46)" id="path1782" />
+            <path style="fill:url(#fill13);fill-rule:evenodd;stroke:#a56fe5;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53412 C 0,2.92543 2.92542,0 6.5341,0 h 79.9201 c 3.6087,0 6.5341,2.92543 6.5341,6.53412 V 17.4629 c 0,3.6087 -2.9254,6.5342 -6.5341,6.5342 H 6.5341 C 2.92542,23.9971 0,21.0716 0,17.4629 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2328.5,315.46)" id="path1784" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#2e1371"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,2368.46,333)" id="text1786">N</text>
+            <path style="fill:url(#fill14);fill-rule:evenodd;stroke:#6b95f9;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,3.99947 C 0,1.79062 1.79063,0 3.99947,0 V 0 C 6.20832,0 7.99895,1.79062 7.99895,3.99947 V 20.9974 c 0,2.2088 -1.79063,3.9994 -3.99948,3.9994 v 0 C 1.79063,24.9968 0,23.2062 0,20.9974 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2421.5,315.46)" id="path1788" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#003779;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,24.5669" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2281.5,340.457)"
+               id="path1790" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#003779;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2316.5,339.457)"
+               id="path1792" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#003779;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2253.5,340.457)"
+               id="path1794" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#003779;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2141.5,340.457)"
+               id="path1796" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#003779;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2425.5,340.457)"
+               id="path1798" />
+            <path style="fill:url(#fill15);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53437 C 0,2.92554 2.92553,0 6.53436,0 H 32.4607 c 3.6088,0 6.5344,2.92554 6.5344,6.53437 V 17.4626 c 0,3.6088 -2.9256,6.5344 -6.5344,6.5344 H 6.53436 C 2.92553,23.997 0,21.0714 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,214.5,390.451)" id="path1800" />
+            <path style="fill:url(#fill16);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53436 C 0,2.92553 2.92552,0 6.53433,0 H 138.447 c 3.609,0 6.535,2.92553 6.535,6.53436 V 17.4626 c 0,3.6088 -2.926,6.5344 -6.535,6.5344 H 6.53433 C 2.92552,23.997 0,21.0714 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,253.5,390.451)" id="path1802" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a5f00"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,305.75,408)" id="text1804">NSP2</text>
+            <path style="fill:url(#fill17);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53425 C 0,2.92548 2.92545,0 6.53417,0 H 428.411 c 3.609,0 6.534,2.92548 6.534,6.53425 V 17.4627 c 0,3.6088 -2.925,6.5343 -6.534,6.5343 H 6.53417 C 2.92545,23.997 0,21.0715 0,17.4627 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,398.5,390.451)" id="path1806" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a5f00"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,595.462,408)" id="text1808">NSP3</text>
+            <path style="fill:url(#fill18);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53437 C 0,2.92554 2.92554,0 6.53437,0 H 110.451 c 3.609,0 6.534,2.92554 6.534,6.53437 V 17.4626 c 0,3.6088 -2.925,6.5344 -6.534,6.5344 H 6.53437 C 2.92554,23.997 0,21.0714 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,833.5,390.451)" id="path1810" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a5f00"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,871.808,408)" id="text1812">NSP4</text>
+            <path style="fill:url(#fill19);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53435 C 0,2.92553 2.92553,0 6.53435,0 H 63.4568 c 3.6088,0 6.5344,2.92553 6.5344,6.53435 V 17.4626 c 0,3.6088 -2.9256,6.5344 -6.5344,6.5344 H 6.53435 C 2.92553,23.997 0,21.0714 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,950.5,390.451)" id="path1814" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a5f00"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,965.311,408)" id="text1816">NSP5</text>
+            <path style="fill:url(#fill20);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53441 C 0,2.92555 2.92555,0 6.53439,0 H 60.4572 c 3.6089,0 6.5344,2.92555 6.5344,6.53441 V 17.4626 c 0,3.6089 -2.9255,6.5344 -6.5344,6.5344 H 6.53439 C 2.92555,23.997 0,21.0715 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1020.5,390.451)" id="path1818" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a5f00"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1033.71,408)" id="text1820">NSP6</text>
+            <path style="fill:url(#fill21);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.70784 C 0,3.0032 3.0032,0 6.70784,0 h 5.58186 c 3.7047,0 6.7079,3.0032 6.7079,6.70784 V 17.2891 c 0,3.7047 -3.0032,6.7079 -6.7079,6.7079 H 6.70784 C 3.0032,23.997 0,20.9938 0,17.2891 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1087.5,390.451)" id="path1822" />
+            <path style="fill:url(#fill22);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53436 C 0,2.92553 2.92553,0 6.53435,0 H 31.4608 c 3.6088,0 6.5344,2.92553 6.5344,6.53436 V 17.4626 c 0,3.6088 -2.9256,6.5344 -6.5344,6.5344 H 6.53435 C 2.92553,23.997 0,21.0714 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1106.5,390.451)" id="path1824" />
+            <path style="fill:url(#fill23);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53438 C 0,2.92554 2.92554,0 6.53438,0 H 23.4618 c 3.6089,0 6.5344,2.92554 6.5344,6.53438 V 17.4626 c 0,3.6088 -2.9255,6.5344 -6.5344,6.5344 H 6.53438 C 2.92554,23.997 0,21.0714 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1144.5,390.451)" id="path1826" />
+            <path style="fill:url(#fill24);fill-rule:evenodd;stroke:#ffce4c;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53438 C 0,2.92554 2.92554,0 6.53437,0 H 25.4616 c 3.6089,0 6.5344,2.92554 6.5344,6.53438 V 17.4626 c 0,3.6089 -2.9255,6.5344 -6.5344,6.5344 H 6.53437 C 2.92554,23.997 0,21.0715 0,17.4626 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1174.5,390.451)" id="path1828" />
+            <path style="fill:url(#fill25);fill-rule:evenodd;stroke:#ffb750;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53412 C 0,2.92542 2.92541,0 6.53409,0 H 204.439 c 3.609,0 6.534,2.92542 6.534,6.53412 V 17.4628 c 0,3.6087 -2.925,6.5342 -6.534,6.5342 H 6.53409 C 2.92541,23.997 0,21.0715 0,17.4628 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1206.5,390.451)" id="path1830" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a4900"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1287.37,408)"
+               id="text1832">NSP12</text>
+            <path style="fill:url(#fill26);fill-rule:evenodd;stroke:#ffb750;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53417 C 0,2.92545 2.92545,0 6.53417,0 H 127.449 c 3.609,0 6.534,2.92545 6.534,6.53417 V 17.4628 c 0,3.6087 -2.925,6.5342 -6.534,6.5342 H 6.53417 C 2.92545,23.997 0,21.0715 0,17.4628 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1417.5,390.451)" id="path1834" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a4900"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1459.8,408)" id="text1836">NSP13</text>
+            <path style="fill:url(#fill27);fill-rule:evenodd;stroke:#ffb750;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.53416 C 0,2.92544 2.92543,0 6.53412,0 H 115.45 c 3.609,0 6.535,2.92544 6.535,6.53416 V 17.4628 c 0,3.6087 -2.926,6.5342 -6.535,6.5342 H 6.53412 C 2.92543,23.997 0,21.0715 0,17.4628 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1551.5,390.451)" id="path1838" />
+            <text
+               style="font-weight:400;font-size:19px;font-family:Calibri, Calibri_MSFontService, sans-serif;fill:#9a4900"
+               font-weight="400" font-size="19" transform="matrix(1,0,0,0.999874,1587.78,408)" id="text1842">NSP14<tspan
+                  x="171.073" y="0" id="tspan1840">NSP16</tspan>
+            </text>
+            <path style="fill:url(#fill28);fill-rule:evenodd;stroke:#6b95f9;stroke-width:0.66666698;stroke-miterlimit:8"
+               d="M 0,6.5341 C 0,2.92542 2.92541,0 6.5341,0 H 48.459 c 3.6087,0 6.5341,2.92542 6.5341,6.5341 v 10.9288 c 0,3.6086 -2.9254,6.5341 -6.5341,6.5341 H 6.5341 C 2.92541,23.997 0,21.0715 0,17.4629 Z"
+               stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2327.5,390.451)" id="path1844" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#003779;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,2356.5,414.448)"
+               id="path1846" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#9a5f00;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1097.5,414.448)"
+               id="path1848" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#9a5f00;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1159.5,414.448)"
+               id="path1850" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#9a5f00;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1206.5,414.448)"
+               id="path1852" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#9a5f00;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,7.1811" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,234.5,414.448)"
+               id="path1854" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#9a5f00;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,24.5669" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1190.5,414.448)"
+               id="path1856" />
+            <path style="fill:none;fill-rule:evenodd;stroke:#9a5f00;stroke-width:1.33333004;stroke-miterlimit:8"
+               d="M 0,0 1.04987e-4,24.5669" stroke-miterlimit="8" transform="matrix(1.00013,0,0,1,1125.5,415.448)"
+               id="path1858" />
+         </g>
+      </g>
+   </g>
+</svg>

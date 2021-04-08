@@ -1,0 +1,36 @@
+app-bar-chart {
+  .axis--x path {
+    display: none;
+  }
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 5px solid rgba(0, 0, 0, 0.1);
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.btn-circle {
+  width: 15px;
+  height: 15px;
+  padding: 0px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.22857;
+}
+
+.containerButtons {
+  display: flex;
+  column-gap: 4px;
+}

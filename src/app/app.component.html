@@ -1,0 +1,43 @@
+  <!-- Navbar Information -->
+<div>
+    <div class="pos-f-t">
+        <div class="collapse" id="navbarToggleExternalContent">
+          <div class="bg-dark p-4">
+            <div class="row ml-2 p-3">
+              <div>
+                <h4 class="text-white">About this tool</h4>
+                <div class="text-muted"><div class="font-weight-bold">Developed by: </div>Kendall Tencio Esquivel</div>
+                <div class="text-muted"><div class="font-weight-bold">Supervisor: </div>Allan Orozco, PhD</div>
+                <div class="text-muted"><div class="font-weight-bold">Graphs by: </div>Simone Ecker, PhD</div>
+              </div>
+              <img src="../assets/firma-ucr-ico.png" style="margin-left: 40px; margin-top: 45px; width: 180px; height: 95px;">
+              <img src="../assets/iscb-logo-Affiliated-Group-2014.png" style="margin-left: 10px; margin-top: 45px; width: 130px; height: 100px;">
+            </div>
+          </div>
+
+        </div>
+        <nav class="navbar navbar-dark bg-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="bg-dark p-1">
+            <h4 class="text-white">Coronavirus (SARS CoV-2) Genome Search Scale</h4>
+          </div>
+        </nav>
+      </div>
+
+    <hr/>
+
+    <!-- Title -->
+    <div class="mb-3 ml-3 w-50">
+        <h5>Search options</h5>
+    </div>
+
+    <!-- @Input variables -->
+    <app-bar-chart [data]="data | async" 
+                   [data_gene_segments]="data_gene_segments | async" [data_protein_segments]="data_protein_segments | async"
+                   [covid_tests_array_names]="covid_tests_array_names | async" [covid_tests_array_segm]="covid_tests_array_segm | async"
+    ></app-bar-chart>
+</div>
+
+
