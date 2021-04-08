@@ -1,7 +1,7 @@
 # SARS-CoV-2-Genome-Search-Scale
 
 #Herramienta utilizada:
-- Angular
+- Angular / Gestor de paquetes: npm
 
 #Hosting:
 - Firebase / https://sars-cov-2-genome-search-scale.web.app/
