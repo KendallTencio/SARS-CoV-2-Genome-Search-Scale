@@ -7,7 +7,7 @@
 - Firebase / https://sars-cov-2-genome-search-scale.web.app/
 
 #Cuentas de interés:
-- Firebase: 
+- Google / GitHub / Firebase: 
  - ID: sarscovsearchscale@gmail.com
  - Contraseña: sarscov123
 
